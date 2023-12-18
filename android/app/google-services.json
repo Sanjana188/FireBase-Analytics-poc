@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "970428479188",
+    "project_id": "fbanalytics-35987",
+    "storage_bucket": "fbanalytics-35987.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970428479188:android:1b49369382511aaf8d2d41",
+        "android_client_info": {
+          "package_name": "com.deeplinkingpoc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzMOkRPVTq6fIbN9YQJYz782-oa737Wok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
