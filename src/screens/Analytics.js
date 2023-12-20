@@ -49,7 +49,7 @@ export default class Analytics extends Component {
 
 
     async addCustomEvent() {
-        await analytics().logEvent('custom_event', {
+        await analytics().logEvent('user_data', {
             id: '123123',
             value: {
                 name:'sanjana',
